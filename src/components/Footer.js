@@ -67,7 +67,7 @@ const Footer = ({data}) => (
 
    
       <FooterGroup>
-    <Text>Join Us </Text>
+    <Text>Join Us! </Text>
     <Button>Telegram</Button>
     <LinkGroup>
 
