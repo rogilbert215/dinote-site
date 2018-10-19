@@ -2,7 +2,6 @@ import React from 'react'
 import styled from 'styled-components'
 
 
-
 let FooterGroup = styled.div`
     background: #FFFFFF;
     padding: 50px 0;
@@ -13,7 +12,7 @@ let FooterGroup = styled.div`
 const Text = styled.p`
     font-size: 24px;
     font-weight: 600;
-    color: #121958;
+    color: #486791;
     max-width: 500px;
     margin: 0 auto;
 `
@@ -24,8 +23,8 @@ const Button = styled.button`
     border: none;
     padding: 16px 60px;
     font-weight: 600;
-    background: rgba(6,26,133, 0.8);
-    box-shadow: 0px 10px 20px rgba(33, 17, 180, 0.15);
+    background: #000A3B;
+    box-shadow: 0px 10px 20px rgba(101, 41, 255, 0.15);
     border-radius: 30px;
     justify-self: center;
     transition: 0.8s cubic-bezier(0.2, 0.8, 0.2, 1);
@@ -44,7 +43,7 @@ let LinkGroup = styled.div`
     grid-gap: 10px;
 
     a {
-        color: #121958;
+        color: #5334F5;
         font-size: 20px;
         font-weight: 500;
         margin: 5px 0;
