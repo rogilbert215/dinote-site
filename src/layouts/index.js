@@ -22,7 +22,10 @@ const Layout = ({ children, data }) => (
     <Footer data={data} />
 
   </div>
-)
+)  
+
+
+
 
 Layout.propTypes = {
   children: PropTypes.func,
